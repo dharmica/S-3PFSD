@@ -1,0 +1,6 @@
+t1 = (5, "hello", "pfsd", 9.4)
+print(ti)
+print(t1[1:3]) 
+print(t1[2:])
+print(t1 * 2)
+print(t1 + t1)
